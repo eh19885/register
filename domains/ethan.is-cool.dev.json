@@ -1,0 +1,14 @@
+{
+    "domain": "is-cool.dev",
+    "subdomain": "vorgris",
+
+    "owner": {
+        "email": "hello@haloethans.cloudns.org"
+    },
+
+    "record": {
+        "TXT": ["google-site-verification=LbhCazaKdHL3JSPhFziuGYj_Nprz5sycUWHHvazd1q0"]
+    },
+
+    "proxied": false
+}
